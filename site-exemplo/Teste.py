@@ -1,4 +1,6 @@
 print('Hey')
 print('Apenas testando')
 print('Vamos testar mais')
+print('Hey')
+print('Heyhey')
 print('Mais testes')
